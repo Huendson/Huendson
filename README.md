@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Huendson
+- 👀 I’m interested in em get a programmer job and change my life!
+- 🌱 I’m currently learning JavaScript, but I know how to work with HTML and CSS .
+- 📫 How to reach me ...
