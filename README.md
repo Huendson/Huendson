@@ -1,6 +1,6 @@
 Olá!!
 
-Eu sou o Huendson Godoi, programador de Front-End ! <br>
+Eu sou o Huendson Godoi, futuro programador Full Stack ! <br>
 No momento estou aprendendo <img width="100vw" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo"/>.<br>
 Mas estudando muito para me tornar um Dev Full Stack !
 
