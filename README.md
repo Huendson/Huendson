@@ -12,7 +12,7 @@ Nas seguintes redes socias:
 (Apenas click na logo) <br>
 - <a href="https://www.linkedin.com/in/huendson-godoi-a9270522b/"><img width="80vw" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a> <br>
 - <a href="https://www.instagram.com/_huendson_/ "> <img width="80vw" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo" /></a> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huendson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
